@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835797285711",
+    "project_id": "machat-246a5",
+    "storage_bucket": "machat-246a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835797285711:android:74ad3d98e23f01e046e33a",
+        "android_client_info": {
+          "package_name": "com.example.machat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAClmWl3zhveas41n6IIeUE7NQZiGxgoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
